@@ -1,0 +1,396 @@
+[
+  {
+    "type": "TYPE",
+    "count": "NUMBER OF AIRCRAFT",
+    "aircraft": []
+  },
+  {
+    "type": "BCS3",
+    "count": "39",
+    "aircraft": [
+      {
+        "registration": "N175BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55058",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n175bz"
+      },
+      {
+        "registration": "N176BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55060",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n176bz"
+      },
+      {
+        "registration": "N178BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55062",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n178bz"
+      },
+      {
+        "registration": "N203BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55128",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n203bz"
+      },
+      {
+        "registration": "N204BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55137",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n204bz"
+      },
+      {
+        "registration": "N206BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55143",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n206bz"
+      },
+      {
+        "registration": "N208BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55148",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n208bz"
+      },
+      {
+        "registration": "N211BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55151",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n211bz"
+      },
+      {
+        "registration": "N213BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55156",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n213bz"
+      },
+      {
+        "registration": "N214BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55160",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n214bz"
+      },
+      {
+        "registration": "N215BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55167",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n215bz"
+      },
+      {
+        "registration": "N216BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55172",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n216bz"
+      },
+      {
+        "registration": "N217BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55178",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n217bz"
+      },
+      {
+        "registration": "N218BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55184",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n218bz"
+      },
+      {
+        "registration": "N219BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55189",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n219bz"
+      },
+      {
+        "registration": "N220BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55202",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n220bz"
+      },
+      {
+        "registration": "N221BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55206",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n221bz"
+      },
+      {
+        "registration": "N223BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55209",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n223bz"
+      },
+      {
+        "registration": "N224BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55217",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n224bz"
+      },
+      {
+        "registration": "N225BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55225",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n225bz"
+      },
+      {
+        "registration": "N226BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55231",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n226bz"
+      },
+      {
+        "registration": "N227BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55239",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n227bz"
+      },
+      {
+        "registration": "N228BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55241",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n228bz"
+      },
+      {
+        "registration": "N229BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55257",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n229bz"
+      },
+      {
+        "registration": "N230BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55260",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n230bz"
+      },
+      {
+        "registration": "N232BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55271",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n232bz"
+      },
+      {
+        "registration": "N233BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55273",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n233bz"
+      },
+      {
+        "registration": "N235BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55277",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n235bz"
+      },
+      {
+        "registration": "N236BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55284",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n236bz"
+      },
+      {
+        "registration": "N237BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55285",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n237bz"
+      },
+      {
+        "registration": "N238BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55287",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n238bz"
+      },
+      {
+        "registration": "N239BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55293",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n239bz"
+      },
+      {
+        "registration": "N240BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55300",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n240bz"
+      },
+      {
+        "registration": "N241BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55310",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n241bz"
+      },
+      {
+        "registration": "N243BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55313",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n243bz"
+      },
+      {
+        "registration": "N244BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55318",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n244bz"
+      },
+      {
+        "registration": "N245BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55326",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n245bz"
+      },
+      {
+        "registration": "N246BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55339",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n246bz"
+      },
+      {
+        "registration": "N247BZ",
+        "aircraftType": "Airbus A220-300",
+        "msn": "55341",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n247bz"
+      }
+    ]
+  },
+  {
+    "type": "E190",
+    "count": "10",
+    "aircraft": [
+      {
+        "registration": "N102BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000055",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n102bz"
+      },
+      {
+        "registration": "N108BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000070",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n108bz"
+      },
+      {
+        "registration": "N110BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000075",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n110bz"
+      },
+      {
+        "registration": "N112BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000077",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n112bz"
+      },
+      {
+        "registration": "N114BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000092",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n114bz"
+      },
+      {
+        "registration": "N115BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000096",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n115bz"
+      },
+      {
+        "registration": "N116BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000101",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n116bz"
+      },
+      {
+        "registration": "N120BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000115",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n120bz"
+      },
+      {
+        "registration": "N126BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000124",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n126bz"
+      },
+      {
+        "registration": "N128BZ",
+        "aircraftType": "Embraer E190AR",
+        "msn": "19000132",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n128bz"
+      }
+    ]
+  },
+  {
+    "type": "E195",
+    "count": "4",
+    "aircraft": [
+      {
+        "registration": "N137BZ",
+        "aircraftType": "Embraer E195LR",
+        "msn": "19000196",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n137bz"
+      },
+      {
+        "registration": "N140BZ",
+        "aircraftType": "Embraer E195LR",
+        "msn": "19000244",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n140bz"
+      },
+      {
+        "registration": "N145BZ",
+        "aircraftType": "Embraer E195LR",
+        "msn": "19000281",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n145bz"
+      },
+      {
+        "registration": "N190BZ",
+        "aircraftType": "Embraer E195AR",
+        "msn": "19000660",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n190bz"
+      }
+    ]
+  }
+]

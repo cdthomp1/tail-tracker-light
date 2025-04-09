@@ -1,0 +1,92 @@
+<div class="container mt-5">
+  <div class="row mb-4">
+    <div class="col">
+      <h2 class="text-primary">Welcome, {{ username }}</h2>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-md-4">
+      <div class="form-group">
+        <label for="airlineSelect" class="form-label">Select Airline</label>
+        <select id="airlineSelect" [(ngModel)]="selectedAirline" (change)="onAirlineChange()" class="form-select">
+          <option *ngFor="let airline of airlines" [value]="airline">
+            {{ airline | titlecase }}
+          </option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-md-6 offset-md-3">
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <canvas baseChart [data]="pieChartData" [options]="pieChartOptions" [type]="'pie'"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-md-4">
+      <div class="form-group">
+        <label for="searchRegistration" class="form-label">Search by Registration</label>
+        <input id="searchRegistration" [(ngModel)]="searchTerm" (ngModelChange)="filterAircraft()" class="form-control"
+          placeholder="Enter registration (e.g., N1801U)" />
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <div class="accordion" id="aircraftAccordion">
+        <!-- Iterate over each aircraft group -->
+        <div class="accordion-item" *ngFor="let group of filteredGroupedAircraft | keyvalue; let i = index">
+          <h2 class="accordion-header" id="heading{{i}}">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+              [attr.data-bs-target]="'#collapse' + i" [attr.aria-expanded]="i === 0 ? 'true' : 'false'"
+              [attr.aria-controls]="'collapse' + i">
+              {{ group.key }}
+            </button>
+          </h2>
+          <div id="collapse{{i}}" class="accordion-collapse collapse" [ngClass]="{'show': i === 0}"
+            [attr.aria-labelledby]="'heading' + i" data-bs-parent="#aircraftAccordion">
+            <div class="accordion-body p-0">
+              <div class="table-responsive">
+                <table class="table table-hover table-striped mb-0">
+                  <thead class="table-light">
+                    <tr>
+                      <th>Registration</th>
+                      <th>Type</th>
+                      <th>MSN</th>
+                      <th>Age</th>
+                      <th>Link</th>
+                      <th>Seen</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let plane of group.value"
+                      [ngClass]="{'table-success': seen.includes(plane.registration)}">
+                      <td>{{ plane.registration }}</td>
+                      <td>{{ plane.aircraftType }}</td>
+                      <td>{{ plane.msn }}</td>
+                      <td>{{ plane.age }}</td>
+                      <td>
+                        <a [href]="plane.link" target="_blank" class="text-primary">FlightAware</a>
+                      </td>
+                      <td>
+                        <input type="checkbox" [checked]="seen.includes(plane.registration)"
+                          (change)="toggleSeen(plane.registration)" />
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

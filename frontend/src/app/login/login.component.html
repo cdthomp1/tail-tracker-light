@@ -1,0 +1,41 @@
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+          <h2 class="mb-0">{{ isRegister ? 'Register' : 'Login' }}</h2>
+        </div>
+        <div class="card-body">
+          <form (ngSubmit)="submit()" class="needs-validation" novalidate>
+            <div class="mb-3">
+              <label for="username" class="form-label">Username</label>
+              <input [(ngModel)]="username" name="username" id="username" class="form-control"
+                placeholder="Enter your username" required />
+              <div class="invalid-feedback">
+                Please enter a username.
+              </div>
+            </div>
+            <div class="mb-3">
+              <label for="password" class="form-label">Password</label>
+              <input [(ngModel)]="password" name="password" id="password" type="password" class="form-control"
+                placeholder="Enter your password" required />
+              <div class="invalid-feedback">
+                Please enter a password.
+              </div>
+            </div>
+            <div class="d-grid">
+              <button type="submit" class="btn btn-primary">
+                {{ isRegister ? 'Register' : 'Login' }}
+              </button>
+            </div>
+          </form>
+          <div class="mt-3 text-center">
+            <button (click)="isRegister = !isRegister" class="btn btn-link">
+              {{ isRegister ? 'Switch to Login' : 'Switch to Register' }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

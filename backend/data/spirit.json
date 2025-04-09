@@ -1,0 +1,1466 @@
+[
+  {
+    "type": "TYPE",
+    "count": "NUMBER OF AIRCRAFT",
+    "aircraft": []
+  },
+  {
+    "type": "A20N",
+    "count": "91",
+    "aircraft": [
+      {
+        "registration": "N901NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "06833",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n901nk"
+      },
+      {
+        "registration": "N902NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "06907",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n902nk"
+      },
+      {
+        "registration": "N903NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07011",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n903nk"
+      },
+      {
+        "registration": "N904NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07094",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n904nk"
+      },
+      {
+        "registration": "N905NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07334",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n905nk"
+      },
+      {
+        "registration": "N906NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07788",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n906nk"
+      },
+      {
+        "registration": "N907NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "08275",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n907nk"
+      },
+      {
+        "registration": "N908NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "08658",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n908nk"
+      },
+      {
+        "registration": "N910NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "08668",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n910nk"
+      },
+      {
+        "registration": "N912NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "08038",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n912nk"
+      },
+      {
+        "registration": "N913NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07757",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n913nk"
+      },
+      {
+        "registration": "N915NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "07851",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n915nk"
+      },
+      {
+        "registration": "N916NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09175",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n916nk"
+      },
+      {
+        "registration": "N917NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09179",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n917nk"
+      },
+      {
+        "registration": "N918NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09259",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n918nk"
+      },
+      {
+        "registration": "N919NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09272",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n919nk"
+      },
+      {
+        "registration": "N920NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09273",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n920nk"
+      },
+      {
+        "registration": "N921NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09339",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n921nk"
+      },
+      {
+        "registration": "N922NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09341",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n922nk"
+      },
+      {
+        "registration": "N923NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09342",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n923nk"
+      },
+      {
+        "registration": "N924NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09405",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n924nk"
+      },
+      {
+        "registration": "N925NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09407",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n925nk"
+      },
+      {
+        "registration": "N926NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09482",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n926nk"
+      },
+      {
+        "registration": "N927NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09075",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n927nk"
+      },
+      {
+        "registration": "N928NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09152",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n928nk"
+      },
+      {
+        "registration": "N929NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09395",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n929nk"
+      },
+      {
+        "registration": "N930NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09483",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n930nk"
+      },
+      {
+        "registration": "N931NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "09548",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n931nk"
+      },
+      {
+        "registration": "N932NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10008",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n932nk"
+      },
+      {
+        "registration": "N933NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10014",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n933nk"
+      },
+      {
+        "registration": "N934NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10107",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n934nk"
+      },
+      {
+        "registration": "N935NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10108",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n935nk"
+      },
+      {
+        "registration": "N936NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10316",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n936nk"
+      },
+      {
+        "registration": "N937NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10330",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n937nk"
+      },
+      {
+        "registration": "N938NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10402",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n938nk"
+      },
+      {
+        "registration": "N939NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10450",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n939nk"
+      },
+      {
+        "registration": "N940NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10473",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n940nk"
+      },
+      {
+        "registration": "N941NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10449",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n941nk"
+      },
+      {
+        "registration": "N942NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10328",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n942nk"
+      },
+      {
+        "registration": "N943NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10563",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n943nk"
+      },
+      {
+        "registration": "N944NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10545",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n944nk"
+      },
+      {
+        "registration": "N945NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10594",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n945nk"
+      },
+      {
+        "registration": "N946NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10640",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n946nk"
+      },
+      {
+        "registration": "N947NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10683",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n947nk"
+      },
+      {
+        "registration": "N948NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10744",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n948nk"
+      },
+      {
+        "registration": "N949NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10710",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n949nk"
+      },
+      {
+        "registration": "N950NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10769",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n950nk"
+      },
+      {
+        "registration": "N951NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10745",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n951nk"
+      },
+      {
+        "registration": "N952NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10767",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n952nk"
+      },
+      {
+        "registration": "N953NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10686",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n953nk"
+      },
+      {
+        "registration": "N954NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10697",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n954nk"
+      },
+      {
+        "registration": "N955NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10812",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n955nk"
+      },
+      {
+        "registration": "N956NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10857",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n956nk"
+      },
+      {
+        "registration": "N957NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10899",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n957nk"
+      },
+      {
+        "registration": "N958NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10860",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n958nk"
+      },
+      {
+        "registration": "N959NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "10921",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n959nk"
+      },
+      {
+        "registration": "N960NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11002",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n960nk"
+      },
+      {
+        "registration": "N961NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11003",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n961nk"
+      },
+      {
+        "registration": "N962NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11056",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n962nk"
+      },
+      {
+        "registration": "N963NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11088",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n963nk"
+      },
+      {
+        "registration": "N964NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11079",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n964nk"
+      },
+      {
+        "registration": "N965NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11124",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n965nk"
+      },
+      {
+        "registration": "N966NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11188",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n966nk"
+      },
+      {
+        "registration": "N967NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11128",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n967nk"
+      },
+      {
+        "registration": "N968NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11151",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n968nk"
+      },
+      {
+        "registration": "N969NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11152",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n969nk"
+      },
+      {
+        "registration": "N970NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11067",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n970nk"
+      },
+      {
+        "registration": "N971NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11222",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n971nk"
+      },
+      {
+        "registration": "N972NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11173",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n972nk"
+      },
+      {
+        "registration": "N973NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11192",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n973nk"
+      },
+      {
+        "registration": "N974NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11270",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n974nk"
+      },
+      {
+        "registration": "N975NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11295",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n975nk"
+      },
+      {
+        "registration": "N976NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11276",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n976nk"
+      },
+      {
+        "registration": "N977NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11355",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n977nk"
+      },
+      {
+        "registration": "N978NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11356",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n978nk"
+      },
+      {
+        "registration": "N979NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11394",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n979nk"
+      },
+      {
+        "registration": "N980NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11331",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n980nk"
+      },
+      {
+        "registration": "N981NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11433",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n981nk"
+      },
+      {
+        "registration": "N982NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11435",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n982nk"
+      },
+      {
+        "registration": "N983NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11511",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n983nk"
+      },
+      {
+        "registration": "N984NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11554",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n984nk"
+      },
+      {
+        "registration": "N985NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11606",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n985nk"
+      },
+      {
+        "registration": "N986NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11643",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n986nk"
+      },
+      {
+        "registration": "N987NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11691",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n987nk"
+      },
+      {
+        "registration": "N988NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11733",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n988nk"
+      },
+      {
+        "registration": "N989NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11840",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n989nk"
+      },
+      {
+        "registration": "N990NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11859",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n990nk"
+      },
+      {
+        "registration": "N991NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11862",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n991nk"
+      },
+      {
+        "registration": "N992NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11900",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n992nk"
+      },
+      {
+        "registration": "N993NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11902",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n993nk"
+      },
+      {
+        "registration": "N994NK",
+        "aircraftType": "Airbus A320-271N",
+        "msn": "11951",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n994nk"
+      }
+    ]
+  },
+  {
+    "type": "A21N",
+    "count": "30",
+    "aircraft": [
+      {
+        "registration": "N702NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11328",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n702nk"
+      },
+      {
+        "registration": "N703NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11383",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n703nk"
+      },
+      {
+        "registration": "N705NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11608",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n705nk"
+      },
+      {
+        "registration": "N706NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11427",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n706nk"
+      },
+      {
+        "registration": "N708NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11605",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n708nk"
+      },
+      {
+        "registration": "N709NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11470",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n709nk"
+      },
+      {
+        "registration": "N710NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11458",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n710nk"
+      },
+      {
+        "registration": "N712NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11570",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n712nk"
+      },
+      {
+        "registration": "N713NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11789",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n713nk"
+      },
+      {
+        "registration": "N715NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11788",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n715nk"
+      },
+      {
+        "registration": "N716NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11880",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n716nk"
+      },
+      {
+        "registration": "N717NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11851",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n717nk"
+      },
+      {
+        "registration": "N718NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11872",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n718nk"
+      },
+      {
+        "registration": "N720NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12048",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n720nk"
+      },
+      {
+        "registration": "N721NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12009",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n721nk"
+      },
+      {
+        "registration": "N723NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12102",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n723nk"
+      },
+      {
+        "registration": "N724NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11974",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n724nk"
+      },
+      {
+        "registration": "N725NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11916",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n725nk"
+      },
+      {
+        "registration": "N726NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11928",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n726nk"
+      },
+      {
+        "registration": "N728NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11881",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n728nk"
+      },
+      {
+        "registration": "N729NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11908",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n729nk"
+      },
+      {
+        "registration": "N730NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12035",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n730nk"
+      },
+      {
+        "registration": "N731NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "11937",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n731nk"
+      },
+      {
+        "registration": "N732NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12178",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n732nk"
+      },
+      {
+        "registration": "N737NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12207",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n737nk"
+      },
+      {
+        "registration": "N739NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12324",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n739nk"
+      },
+      {
+        "registration": "N740NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12055",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n740nk"
+      },
+      {
+        "registration": "N741NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12335",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n741nk"
+      },
+      {
+        "registration": "N742NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12330",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n742nk"
+      },
+      {
+        "registration": "N745NK",
+        "aircraftType": "Airbus A321-271NX",
+        "msn": "12333",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n745nk"
+      }
+    ]
+  },
+  {
+    "type": "A320",
+    "count": "58",
+    "aircraft": [
+      {
+        "registration": "N601NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04206",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n601nk"
+      },
+      {
+        "registration": "N602NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04264",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n602nk"
+      },
+      {
+        "registration": "N603NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04321",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n603nk"
+      },
+      {
+        "registration": "N604NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04431",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n604nk"
+      },
+      {
+        "registration": "N605NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04548",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n605nk"
+      },
+      {
+        "registration": "N606NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04592",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n606nk"
+      },
+      {
+        "registration": "N607NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04595",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n607nk"
+      },
+      {
+        "registration": "N608NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04902",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n608nk"
+      },
+      {
+        "registration": "N609NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04951",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n609nk"
+      },
+      {
+        "registration": "N611NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04996",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n611nk"
+      },
+      {
+        "registration": "N612NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05029",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n612nk"
+      },
+      {
+        "registration": "N613NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05042",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n613nk"
+      },
+      {
+        "registration": "N614NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05132",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n614nk"
+      },
+      {
+        "registration": "N615NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05159",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n615nk"
+      },
+      {
+        "registration": "N616NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05370",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n616nk"
+      },
+      {
+        "registration": "N617NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05387",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n617nk"
+      },
+      {
+        "registration": "N618NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05458",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n618nk"
+      },
+      {
+        "registration": "N619NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05517",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n619nk"
+      },
+      {
+        "registration": "N620NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05624",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n620nk"
+      },
+      {
+        "registration": "N621NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05672",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n621nk"
+      },
+      {
+        "registration": "N622NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05804",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n622nk"
+      },
+      {
+        "registration": "N623NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05861",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n623nk"
+      },
+      {
+        "registration": "N624NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05880",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n624nk"
+      },
+      {
+        "registration": "N625NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05954",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n625nk"
+      },
+      {
+        "registration": "N626NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "05999",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n626nk"
+      },
+      {
+        "registration": "N627NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06082",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n627nk"
+      },
+      {
+        "registration": "N628NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06193",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n628nk"
+      },
+      {
+        "registration": "N629NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06300",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n629nk"
+      },
+      {
+        "registration": "N630NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06304",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n630nk"
+      },
+      {
+        "registration": "N631NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06327",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n631nk"
+      },
+      {
+        "registration": "N633NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06345",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n633nk"
+      },
+      {
+        "registration": "N634NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06370",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n634nk"
+      },
+      {
+        "registration": "N635NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06383",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n635nk"
+      },
+      {
+        "registration": "N636NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06424",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n636nk"
+      },
+      {
+        "registration": "N637NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06436",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n637nk"
+      },
+      {
+        "registration": "N639NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06487",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n639nk"
+      },
+      {
+        "registration": "N640NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06507",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n640nk"
+      },
+      {
+        "registration": "N641NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06566",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n641nk"
+      },
+      {
+        "registration": "N642NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06586",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n642nk"
+      },
+      {
+        "registration": "N643NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "06616",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n643nk"
+      },
+      {
+        "registration": "N644NK",
+        "aircraftType": "Airbus A320-214",
+        "msn": "07156",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n644nk"
+      },
+      {
+        "registration": "N645NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "07008",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n645nk"
+      },
+      {
+        "registration": "N646NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "07062",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n646nk"
+      },
+      {
+        "registration": "N648NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "07656",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n648nk"
+      },
+      {
+        "registration": "N649NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "07679",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n649nk"
+      },
+      {
+        "registration": "N651NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08018",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n651nk"
+      },
+      {
+        "registration": "N652NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08021",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n652nk"
+      },
+      {
+        "registration": "N653NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08012",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n653nk"
+      },
+      {
+        "registration": "N654NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08176",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n654nk"
+      },
+      {
+        "registration": "N655NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08376",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n655nk"
+      },
+      {
+        "registration": "N656NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08400",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n656nk"
+      },
+      {
+        "registration": "N690NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08434",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n690nk"
+      },
+      {
+        "registration": "N691NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08614",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n691nk"
+      },
+      {
+        "registration": "N692NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08611",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n692nk"
+      },
+      {
+        "registration": "N693NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08659",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n693nk"
+      },
+      {
+        "registration": "N695NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "08696",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n695nk"
+      },
+      {
+        "registration": "N697NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04305",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n697nk"
+      },
+      {
+        "registration": "N698NK",
+        "aircraftType": "Airbus A320-232",
+        "msn": "04270",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n698nk"
+      }
+    ]
+  },
+  {
+    "type": "A321",
+    "count": "26",
+    "aircraft": [
+      {
+        "registration": "N659NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "06770",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n659nk"
+      },
+      {
+        "registration": "N660NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "06804",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n660nk"
+      },
+      {
+        "registration": "N661NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "06867",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n661nk"
+      },
+      {
+        "registration": "N662NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "06897",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n662nk"
+      },
+      {
+        "registration": "N663NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "06994",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n663nk"
+      },
+      {
+        "registration": "N664NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07021",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n664nk"
+      },
+      {
+        "registration": "N665NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07045",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n665nk"
+      },
+      {
+        "registration": "N667NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07058",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n667nk"
+      },
+      {
+        "registration": "N668NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07135",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n668nk"
+      },
+      {
+        "registration": "N669NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07296",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n669nk"
+      },
+      {
+        "registration": "N670NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07106",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n670nk"
+      },
+      {
+        "registration": "N671NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07246",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n671nk"
+      },
+      {
+        "registration": "N672NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07522",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n672nk"
+      },
+      {
+        "registration": "N673NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07395",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n673nk"
+      },
+      {
+        "registration": "N675NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07668",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n675nk"
+      },
+      {
+        "registration": "N676NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07734",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n676nk"
+      },
+      {
+        "registration": "N677NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07690",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n677nk"
+      },
+      {
+        "registration": "N678NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07857",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n678nk"
+      },
+      {
+        "registration": "N679NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07825",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n679nk"
+      },
+      {
+        "registration": "N680NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07870",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n680nk"
+      },
+      {
+        "registration": "N682NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "07957",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n682nk"
+      },
+      {
+        "registration": "N683NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "08114",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n683nk"
+      },
+      {
+        "registration": "N684NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "08047",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n684nk"
+      },
+      {
+        "registration": "N685NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "08115",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n685nk"
+      },
+      {
+        "registration": "N686NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "08141",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n686nk"
+      },
+      {
+        "registration": "N687NK",
+        "aircraftType": "Airbus A321-231",
+        "msn": "08160",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n687nk"
+      }
+    ]
+  }
+]

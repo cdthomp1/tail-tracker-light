@@ -1,0 +1,5695 @@
+[
+  {
+    "type": "TYPE",
+    "count": "NUMBER OF AIRCRAFT",
+    "aircraft": []
+  },
+  {
+    "type": "B38M",
+    "count": "257",
+    "aircraft": [
+      {
+        "registration": "N1801U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60223",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n1801u"
+      },
+      {
+        "registration": "N1802U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60225",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n1802u"
+      },
+      {
+        "registration": "N1803U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60226",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n1803u"
+      },
+      {
+        "registration": "N1804U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60650",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1804u"
+      },
+      {
+        "registration": "N1805U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60649",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1805u"
+      },
+      {
+        "registration": "N1806U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60652",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1806u"
+      },
+      {
+        "registration": "N1807U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60653",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1807u"
+      },
+      {
+        "registration": "N1808U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60186",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n1808u"
+      },
+      {
+        "registration": "N1809U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60188",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1809u"
+      },
+      {
+        "registration": "N1810U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60187",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1810u"
+      },
+      {
+        "registration": "N1811U",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60219",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n1811u"
+      },
+      {
+        "registration": "N8701Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42554",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8701q"
+      },
+      {
+        "registration": "N8702L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36989",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8702l"
+      },
+      {
+        "registration": "N8704Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36988",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8704q"
+      },
+      {
+        "registration": "N8705Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42558",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8705q"
+      },
+      {
+        "registration": "N8706W",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42559",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8706w"
+      },
+      {
+        "registration": "N8707P",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36929",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8707p"
+      },
+      {
+        "registration": "N8708Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42566",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8708q"
+      },
+      {
+        "registration": "N8709Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42563",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8709q"
+      },
+      {
+        "registration": "N8710M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42567",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8710m"
+      },
+      {
+        "registration": "N8711Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36979",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8711q"
+      },
+      {
+        "registration": "N8712L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36930",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8712l"
+      },
+      {
+        "registration": "N8713M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36984",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8713m"
+      },
+      {
+        "registration": "N8714Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36934",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8714q"
+      },
+      {
+        "registration": "N8715Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42570",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8715q"
+      },
+      {
+        "registration": "N8716B",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42544",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8716b"
+      },
+      {
+        "registration": "N8717M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42571",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8717m"
+      },
+      {
+        "registration": "N8718Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42546",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8718q"
+      },
+      {
+        "registration": "N8719Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42572",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8719q"
+      },
+      {
+        "registration": "N871HK",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67775",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n871hk"
+      },
+      {
+        "registration": "N8720L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42547",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8720l"
+      },
+      {
+        "registration": "N8721J",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42548",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8721j"
+      },
+      {
+        "registration": "N8722L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "37019",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8722l"
+      },
+      {
+        "registration": "N8723Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42574",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8723q"
+      },
+      {
+        "registration": "N8724J",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42549",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8724j"
+      },
+      {
+        "registration": "N8725L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42575",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8725l"
+      },
+      {
+        "registration": "N8726H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42573",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8726h"
+      },
+      {
+        "registration": "N8727M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42576",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8727m"
+      },
+      {
+        "registration": "N8728Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42577",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8728q"
+      },
+      {
+        "registration": "N8729H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "37043",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8729h"
+      },
+      {
+        "registration": "N872CB",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67780",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n872cb"
+      },
+      {
+        "registration": "N8730Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "37042",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8730q"
+      },
+      {
+        "registration": "N8731J",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42550",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8731j"
+      },
+      {
+        "registration": "N8732S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42551",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8732s"
+      },
+      {
+        "registration": "N8733M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60710",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8733m"
+      },
+      {
+        "registration": "N8734Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60713",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8734q"
+      },
+      {
+        "registration": "N8735L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60711",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8735l"
+      },
+      {
+        "registration": "N8736J",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60228",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8736j"
+      },
+      {
+        "registration": "N8737L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60230",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8737l"
+      },
+      {
+        "registration": "N8738K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60229",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8738k"
+      },
+      {
+        "registration": "N8739L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "60231",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8739l"
+      },
+      {
+        "registration": "N8740A",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61860",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8740a"
+      },
+      {
+        "registration": "N8741L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61869",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8741l"
+      },
+      {
+        "registration": "N8742M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61868",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8742m"
+      },
+      {
+        "registration": "N8743K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "62536",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8743k"
+      },
+      {
+        "registration": "N8744B",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61865",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8744b"
+      },
+      {
+        "registration": "N8745K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61866",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8745k"
+      },
+      {
+        "registration": "N8746Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61889",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8746q"
+      },
+      {
+        "registration": "N8747Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61870",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8747q"
+      },
+      {
+        "registration": "N8748Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61871",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8748q"
+      },
+      {
+        "registration": "N8749Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "62543",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8749q"
+      },
+      {
+        "registration": "N8750Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61872",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8750q"
+      },
+      {
+        "registration": "N8751R",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "61873",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n8751r"
+      },
+      {
+        "registration": "N8752Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67206",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n8752q"
+      },
+      {
+        "registration": "N8753Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67205",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n8753q"
+      },
+      {
+        "registration": "N8754S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67207",
+        "age": "3 years",
+        "link": "https://www.flightaware.com/live/flight/n8754s"
+      },
+      {
+        "registration": "N8755L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67208",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8755l"
+      },
+      {
+        "registration": "N8756S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67209",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8756s"
+      },
+      {
+        "registration": "N8757L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67210",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8757l"
+      },
+      {
+        "registration": "N8758L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67211",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8758l"
+      },
+      {
+        "registration": "N8759Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67212",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8759q"
+      },
+      {
+        "registration": "N8760L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67213",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8760l"
+      },
+      {
+        "registration": "N8761L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67214",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8761l"
+      },
+      {
+        "registration": "N8762Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67216",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8762q"
+      },
+      {
+        "registration": "N8763L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67215",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8763l"
+      },
+      {
+        "registration": "N8764Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67218",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8764q"
+      },
+      {
+        "registration": "N8765Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67217",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8765q"
+      },
+      {
+        "registration": "N8766T",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67520",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8766t"
+      },
+      {
+        "registration": "N8767M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67521",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8767m"
+      },
+      {
+        "registration": "N8768Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67518",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8768q"
+      },
+      {
+        "registration": "N8769Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67519",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8769q"
+      },
+      {
+        "registration": "N8770Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67517",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8770q"
+      },
+      {
+        "registration": "N8771D",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67516",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8771d"
+      },
+      {
+        "registration": "N8772M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67515",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8772m"
+      },
+      {
+        "registration": "N8773Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67514",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8773q"
+      },
+      {
+        "registration": "N8774Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67512",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8774q"
+      },
+      {
+        "registration": "N8775Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67762",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8775q"
+      },
+      {
+        "registration": "N8776L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67761",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8776l"
+      },
+      {
+        "registration": "N8777Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67756",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8777q"
+      },
+      {
+        "registration": "N8778Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67513",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8778q"
+      },
+      {
+        "registration": "N8779Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67760",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8779q"
+      },
+      {
+        "registration": "N8780Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67753",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8780q"
+      },
+      {
+        "registration": "N8781Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67758",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8781q"
+      },
+      {
+        "registration": "N8782Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67759",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8782q"
+      },
+      {
+        "registration": "N8783L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67754",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8783l"
+      },
+      {
+        "registration": "N8784Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67757",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8784q"
+      },
+      {
+        "registration": "N8785L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67755",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8785l"
+      },
+      {
+        "registration": "N8786Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67782",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8786q"
+      },
+      {
+        "registration": "N8787K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67778",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8787k"
+      },
+      {
+        "registration": "N8788L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67777",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8788l"
+      },
+      {
+        "registration": "N8789Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67776",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8789q"
+      },
+      {
+        "registration": "N8790Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67773",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8790q"
+      },
+      {
+        "registration": "N8791D",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67779",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8791d"
+      },
+      {
+        "registration": "N8792Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67774",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8792q"
+      },
+      {
+        "registration": "N8793Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67781",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8793q"
+      },
+      {
+        "registration": "N8794Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67784",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8794q"
+      },
+      {
+        "registration": "N8795L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67785",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8795l"
+      },
+      {
+        "registration": "N8796L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67783",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8796l"
+      },
+      {
+        "registration": "N8797Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67787",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8797q"
+      },
+      {
+        "registration": "N8798Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67786",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8798q"
+      },
+      {
+        "registration": "N8800L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42633",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8800l"
+      },
+      {
+        "registration": "N8801Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65436",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8801q"
+      },
+      {
+        "registration": "N8802Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65437",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8802q"
+      },
+      {
+        "registration": "N8803L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42634",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8803l"
+      },
+      {
+        "registration": "N8804L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42637",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8804l"
+      },
+      {
+        "registration": "N8805L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42641",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8805l"
+      },
+      {
+        "registration": "N8806Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65471",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8806q"
+      },
+      {
+        "registration": "N8807L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65438",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8807l"
+      },
+      {
+        "registration": "N8808Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65440",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8808q"
+      },
+      {
+        "registration": "N8809L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65439",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8809l"
+      },
+      {
+        "registration": "N8810L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42647",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8810l"
+      },
+      {
+        "registration": "N8811L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42661",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8811l"
+      },
+      {
+        "registration": "N8812Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42662",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8812q"
+      },
+      {
+        "registration": "N8813Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42646",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8813q"
+      },
+      {
+        "registration": "N8814K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42664",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8814k"
+      },
+      {
+        "registration": "N8815L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "65473",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8815l"
+      },
+      {
+        "registration": "N8816Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42536",
+        "age": "5 years",
+        "link": "https://www.flightaware.com/live/flight/n8816q"
+      },
+      {
+        "registration": "N8817L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42537",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8817l"
+      },
+      {
+        "registration": "N8818Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "36722",
+        "age": "4 years",
+        "link": "https://www.flightaware.com/live/flight/n8818q"
+      },
+      {
+        "registration": "N8819L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67476",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8819l"
+      },
+      {
+        "registration": "N8820L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67475",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8820l"
+      },
+      {
+        "registration": "N8821S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67480",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8821s"
+      },
+      {
+        "registration": "N8822Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67479",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8822q"
+      },
+      {
+        "registration": "N8823Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67478",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8823q"
+      },
+      {
+        "registration": "N8824Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67477",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8824q"
+      },
+      {
+        "registration": "N8825Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67472",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8825q"
+      },
+      {
+        "registration": "N8826Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67473",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8826q"
+      },
+      {
+        "registration": "N8827Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42598",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8827q"
+      },
+      {
+        "registration": "N8828L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67474",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8828l"
+      },
+      {
+        "registration": "N8829Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67487",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8829q"
+      },
+      {
+        "registration": "N8830Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67750",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8830q"
+      },
+      {
+        "registration": "N8831L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67482",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8831l"
+      },
+      {
+        "registration": "N8832H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67751",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8832h"
+      },
+      {
+        "registration": "N8833L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67481",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8833l"
+      },
+      {
+        "registration": "N8834L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67752",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8834l"
+      },
+      {
+        "registration": "N8835Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67486",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8835q"
+      },
+      {
+        "registration": "N8836Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67483",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8836q"
+      },
+      {
+        "registration": "N8837Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67485",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8837q"
+      },
+      {
+        "registration": "N8838Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67484",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8838q"
+      },
+      {
+        "registration": "N8839Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67489",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8839q"
+      },
+      {
+        "registration": "N8840Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67493",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8840q"
+      },
+      {
+        "registration": "N8841L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67492",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8841l"
+      },
+      {
+        "registration": "N8842L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67793",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8842l"
+      },
+      {
+        "registration": "N8843S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67491",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8843s"
+      },
+      {
+        "registration": "N8844Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67488",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8844q"
+      },
+      {
+        "registration": "N8845L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67794",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8845l"
+      },
+      {
+        "registration": "N8846Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67490",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8846q"
+      },
+      {
+        "registration": "N8847Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42600",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8847q"
+      },
+      {
+        "registration": "N8848Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67795",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8848q"
+      },
+      {
+        "registration": "N8849Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67826",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8849q"
+      },
+      {
+        "registration": "N8850Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67498",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8850q"
+      },
+      {
+        "registration": "N8851Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67825",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8851q"
+      },
+      {
+        "registration": "N8852Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67497",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8852q"
+      },
+      {
+        "registration": "N8853Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67496",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8853q"
+      },
+      {
+        "registration": "N8854Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67494",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8854q"
+      },
+      {
+        "registration": "N8855Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67495",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8855q"
+      },
+      {
+        "registration": "N8856S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67470",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8856s"
+      },
+      {
+        "registration": "N8857Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67471",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8857q"
+      },
+      {
+        "registration": "N8858K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42591",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8858k"
+      },
+      {
+        "registration": "N8859Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42657",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8859q"
+      },
+      {
+        "registration": "N8860S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42671",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8860s"
+      },
+      {
+        "registration": "N8861Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67865",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8861q"
+      },
+      {
+        "registration": "N8862Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67863",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8862q"
+      },
+      {
+        "registration": "N8863Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67864",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8863q"
+      },
+      {
+        "registration": "N8864H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67858",
+        "age": "2 years",
+        "link": "https://www.flightaware.com/live/flight/n8864h"
+      },
+      {
+        "registration": "N8865L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67859",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8865l"
+      },
+      {
+        "registration": "N8866H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67860",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8866h"
+      },
+      {
+        "registration": "N8867Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67861",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8867q"
+      },
+      {
+        "registration": "N8868L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67862",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8868l"
+      },
+      {
+        "registration": "N8869L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42688",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8869l"
+      },
+      {
+        "registration": "N8870K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42679",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8870k"
+      },
+      {
+        "registration": "N8871Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42678",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8871q"
+      },
+      {
+        "registration": "N8872Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67913",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8872q"
+      },
+      {
+        "registration": "N8873S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67915",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8873s"
+      },
+      {
+        "registration": "N8874Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67919",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8874q"
+      },
+      {
+        "registration": "N8875B",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67918",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8875b"
+      },
+      {
+        "registration": "N8876Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67916",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8876q"
+      },
+      {
+        "registration": "N8877Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67917",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8877q"
+      },
+      {
+        "registration": "N8878L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67914",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8878l"
+      },
+      {
+        "registration": "N8879Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42681",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8879q"
+      },
+      {
+        "registration": "N8880G",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42680",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8880g"
+      },
+      {
+        "registration": "N8881L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42684",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8881l"
+      },
+      {
+        "registration": "N8882Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67967",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8882q"
+      },
+      {
+        "registration": "N8883Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67965",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8883q"
+      },
+      {
+        "registration": "N8884Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67966",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8884q"
+      },
+      {
+        "registration": "N8885Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67961",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8885q"
+      },
+      {
+        "registration": "N8886C",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67962",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8886c"
+      },
+      {
+        "registration": "N8887Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67964",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8887q"
+      },
+      {
+        "registration": "N8888M",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67963",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8888m"
+      },
+      {
+        "registration": "N8889Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42682",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8889q"
+      },
+      {
+        "registration": "N8890Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42687",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8890q"
+      },
+      {
+        "registration": "N8891Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42683",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8891q"
+      },
+      {
+        "registration": "N8892S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68047",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8892s"
+      },
+      {
+        "registration": "N8893L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68050",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8893l"
+      },
+      {
+        "registration": "N8894Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68051",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8894q"
+      },
+      {
+        "registration": "N8895Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68052",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8895q"
+      },
+      {
+        "registration": "N8896L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68048",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8896l"
+      },
+      {
+        "registration": "N8897K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68049",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8897k"
+      },
+      {
+        "registration": "N8898L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68046",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8898l"
+      },
+      {
+        "registration": "N8899H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42685",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8899h"
+      },
+      {
+        "registration": "N8900L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42690",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8900l"
+      },
+      {
+        "registration": "N8901Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68118",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8901q"
+      },
+      {
+        "registration": "N8902Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68119",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8902q"
+      },
+      {
+        "registration": "N8903H",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68120",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8903h"
+      },
+      {
+        "registration": "N8904L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68117",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8904l"
+      },
+      {
+        "registration": "N8905Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68116",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8905q"
+      },
+      {
+        "registration": "N8906K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42686",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8906k"
+      },
+      {
+        "registration": "N8907L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42693",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8907l"
+      },
+      {
+        "registration": "N8908Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "67469",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8908q"
+      },
+      {
+        "registration": "N8909L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42689",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8909l"
+      },
+      {
+        "registration": "N8910Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42565",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8910q"
+      },
+      {
+        "registration": "N8911Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68184",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8911q"
+      },
+      {
+        "registration": "N8912Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68183",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8912q"
+      },
+      {
+        "registration": "N8913S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42560",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8913s"
+      },
+      {
+        "registration": "N8914Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42695",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8914q"
+      },
+      {
+        "registration": "N8915Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42562",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8915q"
+      },
+      {
+        "registration": "N8916Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42564",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8916q"
+      },
+      {
+        "registration": "N8917Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42555",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8917q"
+      },
+      {
+        "registration": "N8918Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68206",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8918q"
+      },
+      {
+        "registration": "N8919K",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68207",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8919k"
+      },
+      {
+        "registration": "N8920Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42557",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8920q"
+      },
+      {
+        "registration": "N8921Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42581",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8921q"
+      },
+      {
+        "registration": "N8922Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42594",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8922q"
+      },
+      {
+        "registration": "N8923Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42568",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8923q"
+      },
+      {
+        "registration": "N8924Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42582",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8924q"
+      },
+      {
+        "registration": "N8925Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42597",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8925q"
+      },
+      {
+        "registration": "N8926Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68360",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8926q"
+      },
+      {
+        "registration": "N8927Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68359",
+        "age": "1 year",
+        "link": "https://www.flightaware.com/live/flight/n8927q"
+      },
+      {
+        "registration": "N8928Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68381",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8928q"
+      },
+      {
+        "registration": "N8929S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42578",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8929s"
+      },
+      {
+        "registration": "N8930S",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68382",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8930s"
+      },
+      {
+        "registration": "N8931L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42593",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8931l"
+      },
+      {
+        "registration": "N8932Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42601",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8932q"
+      },
+      {
+        "registration": "N8933Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42605",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8933q"
+      },
+      {
+        "registration": "N8934Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68458",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8934q"
+      },
+      {
+        "registration": "N8935Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68457",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8935q"
+      },
+      {
+        "registration": "N8936Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68459",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8936q"
+      },
+      {
+        "registration": "N8937Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68628",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8937q"
+      },
+      {
+        "registration": "N8938Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42584",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8938q"
+      },
+      {
+        "registration": "N8939Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42585",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8939q"
+      },
+      {
+        "registration": "N8940Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42583",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8940q"
+      },
+      {
+        "registration": "N8941Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68627",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8941q"
+      },
+      {
+        "registration": "N8942L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68626",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8942l"
+      },
+      {
+        "registration": "N8943Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42611",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8943q"
+      },
+      {
+        "registration": "N8944Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68633",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8944q"
+      },
+      {
+        "registration": "N8945Q",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "68632",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8945q"
+      },
+      {
+        "registration": "N8946L",
+        "aircraftType": "Boeing 737 MAX 8",
+        "msn": "42599",
+        "age": "Brand new",
+        "link": "https://www.flightaware.com/live/flight/n8946l"
+      }
+    ]
+  },
+  {
+    "type": "B737",
+    "count": "350",
+    "aircraft": [
+      {
+        "registration": "N200WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32482",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n200wn"
+      },
+      {
+        "registration": "N201LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29854",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n201lv"
+      },
+      {
+        "registration": "N203WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32483",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n203wn"
+      },
+      {
+        "registration": "N204WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29855",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n204wn"
+      },
+      {
+        "registration": "N205WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34010",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n205wn"
+      },
+      {
+        "registration": "N206WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34011",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n206wn"
+      },
+      {
+        "registration": "N207WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34012",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n207wn"
+      },
+      {
+        "registration": "N208WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29856",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n208wn"
+      },
+      {
+        "registration": "N209WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32484",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n209wn"
+      },
+      {
+        "registration": "N210WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34162",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n210wn"
+      },
+      {
+        "registration": "N211WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34163",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n211wn"
+      },
+      {
+        "registration": "N212WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32485",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n212wn"
+      },
+      {
+        "registration": "N213WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34217",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n213wn"
+      },
+      {
+        "registration": "N214WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32486",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n214wn"
+      },
+      {
+        "registration": "N215WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32487",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n215wn"
+      },
+      {
+        "registration": "N216WR",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32488",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n216wr"
+      },
+      {
+        "registration": "N217JC",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34232",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n217jc"
+      },
+      {
+        "registration": "N218WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32489",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n218wn"
+      },
+      {
+        "registration": "N219WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32490",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n219wn"
+      },
+      {
+        "registration": "N220WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32491",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n220wn"
+      },
+      {
+        "registration": "N221WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34259",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n221wn"
+      },
+      {
+        "registration": "N222WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34290",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n222wn"
+      },
+      {
+        "registration": "N223WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32492",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n223wn"
+      },
+      {
+        "registration": "N224WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32493",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n224wn"
+      },
+      {
+        "registration": "N225WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34333",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n225wn"
+      },
+      {
+        "registration": "N226WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32494",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n226wn"
+      },
+      {
+        "registration": "N227WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34450",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n227wn"
+      },
+      {
+        "registration": "N228WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32496",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n228wn"
+      },
+      {
+        "registration": "N229WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32498",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n229wn"
+      },
+      {
+        "registration": "N230WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34592",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n230wn"
+      },
+      {
+        "registration": "N231WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32499",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n231wn"
+      },
+      {
+        "registration": "N232WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32500",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n232wn"
+      },
+      {
+        "registration": "N233LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32501",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n233lv"
+      },
+      {
+        "registration": "N234WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32502",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n234wn"
+      },
+      {
+        "registration": "N235WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34630",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n235wn"
+      },
+      {
+        "registration": "N236WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34631",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n236wn"
+      },
+      {
+        "registration": "N237WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34632",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n237wn"
+      },
+      {
+        "registration": "N238WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34713",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n238wn"
+      },
+      {
+        "registration": "N239WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34714",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n239wn"
+      },
+      {
+        "registration": "N240WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32503",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n240wn"
+      },
+      {
+        "registration": "N241WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32504",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n241wn"
+      },
+      {
+        "registration": "N242WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32505",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n242wn"
+      },
+      {
+        "registration": "N243WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34863",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n243wn"
+      },
+      {
+        "registration": "N244WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34864",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n244wn"
+      },
+      {
+        "registration": "N245WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32506",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n245wn"
+      },
+      {
+        "registration": "N246LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32507",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n246lv"
+      },
+      {
+        "registration": "N247WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32508",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n247wn"
+      },
+      {
+        "registration": "N248WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32509",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n248wn"
+      },
+      {
+        "registration": "N249WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34951",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n249wn"
+      },
+      {
+        "registration": "N250WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34972",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n250wn"
+      },
+      {
+        "registration": "N251WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32510",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n251wn"
+      },
+      {
+        "registration": "N252WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "34973",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n252wn"
+      },
+      {
+        "registration": "N253WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32511",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n253wn"
+      },
+      {
+        "registration": "N254WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32512",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n254wn"
+      },
+      {
+        "registration": "N255WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32513",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n255wn"
+      },
+      {
+        "registration": "N256WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32514",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n256wn"
+      },
+      {
+        "registration": "N257WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32515",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n257wn"
+      },
+      {
+        "registration": "N258WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32516",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n258wn"
+      },
+      {
+        "registration": "N259WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "35554",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n259wn"
+      },
+      {
+        "registration": "N260WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32518",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n260wn"
+      },
+      {
+        "registration": "N261WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32517",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n261wn"
+      },
+      {
+        "registration": "N262WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32519",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n262wn"
+      },
+      {
+        "registration": "N263WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32520",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n263wn"
+      },
+      {
+        "registration": "N264LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32521",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n264lv"
+      },
+      {
+        "registration": "N265WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32522",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n265wn"
+      },
+      {
+        "registration": "N266WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32523",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n266wn"
+      },
+      {
+        "registration": "N267WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32525",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n267wn"
+      },
+      {
+        "registration": "N268WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32524",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n268wn"
+      },
+      {
+        "registration": "N269WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32526",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n269wn"
+      },
+      {
+        "registration": "N272WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32527",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n272wn"
+      },
+      {
+        "registration": "N273WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32528",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n273wn"
+      },
+      {
+        "registration": "N274WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32529",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n274wn"
+      },
+      {
+        "registration": "N275WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36153",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n275wn"
+      },
+      {
+        "registration": "N276WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32530",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n276wn"
+      },
+      {
+        "registration": "N277WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32531",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n277wn"
+      },
+      {
+        "registration": "N278WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36441",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n278wn"
+      },
+      {
+        "registration": "N279WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32532",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n279wn"
+      },
+      {
+        "registration": "N280WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32533",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n280wn"
+      },
+      {
+        "registration": "N281WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36528",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n281wn"
+      },
+      {
+        "registration": "N282WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32534",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n282wn"
+      },
+      {
+        "registration": "N283WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36610",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n283wn"
+      },
+      {
+        "registration": "N284WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32535",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n284wn"
+      },
+      {
+        "registration": "N285WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32536",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n285wn"
+      },
+      {
+        "registration": "N286WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32471",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n286wn"
+      },
+      {
+        "registration": "N287WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32537",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n287wn"
+      },
+      {
+        "registration": "N288WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36611",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n288wn"
+      },
+      {
+        "registration": "N289CT",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36633",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n289ct"
+      },
+      {
+        "registration": "N290WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36632",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n290wn"
+      },
+      {
+        "registration": "N291WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32539",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n291wn"
+      },
+      {
+        "registration": "N292WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32538",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n292wn"
+      },
+      {
+        "registration": "N293WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36612",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n293wn"
+      },
+      {
+        "registration": "N294WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32540",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n294wn"
+      },
+      {
+        "registration": "N295WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32541",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n295wn"
+      },
+      {
+        "registration": "N296WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36613",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n296wn"
+      },
+      {
+        "registration": "N297WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32542",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n297wn"
+      },
+      {
+        "registration": "N298WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32543",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n298wn"
+      },
+      {
+        "registration": "N299WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36614",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n299wn"
+      },
+      {
+        "registration": "N404WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "27892",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n404wn"
+      },
+      {
+        "registration": "N405WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "27893",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n405wn"
+      },
+      {
+        "registration": "N407WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29817",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n407wn"
+      },
+      {
+        "registration": "N408WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "27895",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n408wn"
+      },
+      {
+        "registration": "N409WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "27896",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n409wn"
+      },
+      {
+        "registration": "N410WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "27897",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n410wn"
+      },
+      {
+        "registration": "N411WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29821",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n411wn"
+      },
+      {
+        "registration": "N412WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29818",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n412wn"
+      },
+      {
+        "registration": "N413WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29819",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n413wn"
+      },
+      {
+        "registration": "N414WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29820",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n414wn"
+      },
+      {
+        "registration": "N415WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29836",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n415wn"
+      },
+      {
+        "registration": "N416WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32453",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n416wn"
+      },
+      {
+        "registration": "N417WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29822",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n417wn"
+      },
+      {
+        "registration": "N418WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29823",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n418wn"
+      },
+      {
+        "registration": "N419WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29824",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n419wn"
+      },
+      {
+        "registration": "N420WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29825",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n420wn"
+      },
+      {
+        "registration": "N421LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32452",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n421lv"
+      },
+      {
+        "registration": "N422WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29826",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n422wn"
+      },
+      {
+        "registration": "N423WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29827",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n423wn"
+      },
+      {
+        "registration": "N424WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29828",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n424wn"
+      },
+      {
+        "registration": "N425LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29829",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n425lv"
+      },
+      {
+        "registration": "N426WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29830",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n426wn"
+      },
+      {
+        "registration": "N427WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29831",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n427wn"
+      },
+      {
+        "registration": "N428WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29844",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n428wn"
+      },
+      {
+        "registration": "N429WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33658",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n429wn"
+      },
+      {
+        "registration": "N431WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29845",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n431wn"
+      },
+      {
+        "registration": "N432WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33715",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n432wn"
+      },
+      {
+        "registration": "N435WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32455",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n435wn"
+      },
+      {
+        "registration": "N436WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32456",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n436wn"
+      },
+      {
+        "registration": "N437WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29832",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n437wn"
+      },
+      {
+        "registration": "N438WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29833",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n438wn"
+      },
+      {
+        "registration": "N439WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29834",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n439wn"
+      },
+      {
+        "registration": "N440LV",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29835",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n440lv"
+      },
+      {
+        "registration": "N441WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29837",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n441wn"
+      },
+      {
+        "registration": "N442WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32459",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n442wn"
+      },
+      {
+        "registration": "N443WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29838",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n443wn"
+      },
+      {
+        "registration": "N444WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29839",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n444wn"
+      },
+      {
+        "registration": "N445WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29841",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n445wn"
+      },
+      {
+        "registration": "N446WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29842",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n446wn"
+      },
+      {
+        "registration": "N447WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33720",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n447wn"
+      },
+      {
+        "registration": "N448WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33721",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n448wn"
+      },
+      {
+        "registration": "N449WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32469",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n449wn"
+      },
+      {
+        "registration": "N451WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32495",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n451wn"
+      },
+      {
+        "registration": "N452WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29846",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n452wn"
+      },
+      {
+        "registration": "N453WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29847",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n453wn"
+      },
+      {
+        "registration": "N454WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29851",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n454wn"
+      },
+      {
+        "registration": "N456WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32463",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n456wn"
+      },
+      {
+        "registration": "N457WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33856",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n457wn"
+      },
+      {
+        "registration": "N458WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33857",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n458wn"
+      },
+      {
+        "registration": "N459WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32497",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n459wn"
+      },
+      {
+        "registration": "N460WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32464",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n460wn"
+      },
+      {
+        "registration": "N461WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32465",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n461wn"
+      },
+      {
+        "registration": "N462WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32466",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n462wn"
+      },
+      {
+        "registration": "N463WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32467",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n463wn"
+      },
+      {
+        "registration": "N464WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32468",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n464wn"
+      },
+      {
+        "registration": "N465WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33829",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n465wn"
+      },
+      {
+        "registration": "N467WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33830",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n467wn"
+      },
+      {
+        "registration": "N468WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33858",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n468wn"
+      },
+      {
+        "registration": "N469WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33859",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n469wn"
+      },
+      {
+        "registration": "N470WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33860",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n470wn"
+      },
+      {
+        "registration": "N472WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33831",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n472wn"
+      },
+      {
+        "registration": "N473WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33832",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n473wn"
+      },
+      {
+        "registration": "N474WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33861",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n474wn"
+      },
+      {
+        "registration": "N475WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32474",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n475wn"
+      },
+      {
+        "registration": "N476WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32475",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n476wn"
+      },
+      {
+        "registration": "N477WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33988",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n477wn"
+      },
+      {
+        "registration": "N478WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33989",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n478wn"
+      },
+      {
+        "registration": "N479WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33990",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n479wn"
+      },
+      {
+        "registration": "N480WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33998",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n480wn"
+      },
+      {
+        "registration": "N481WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29853",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n481wn"
+      },
+      {
+        "registration": "N482WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29852",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n482wn"
+      },
+      {
+        "registration": "N483WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32472",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n483wn"
+      },
+      {
+        "registration": "N485WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32473",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n485wn"
+      },
+      {
+        "registration": "N486WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33852",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n486wn"
+      },
+      {
+        "registration": "N487WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33854",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n487wn"
+      },
+      {
+        "registration": "N488WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33853",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n488wn"
+      },
+      {
+        "registration": "N489WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33855",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n489wn"
+      },
+      {
+        "registration": "N494WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33868",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n494wn"
+      },
+      {
+        "registration": "N495WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "33869",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n495wn"
+      },
+      {
+        "registration": "N497WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32479",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n497wn"
+      },
+      {
+        "registration": "N498WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32480",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n498wn"
+      },
+      {
+        "registration": "N499WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32481",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n499wn"
+      },
+      {
+        "registration": "N550WN",
+        "aircraftType": "Boeing 737-76Q",
+        "msn": "30279",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n550wn"
+      },
+      {
+        "registration": "N551WN",
+        "aircraftType": "Boeing 737-76Q",
+        "msn": "30280",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n551wn"
+      },
+      {
+        "registration": "N555LV",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36726",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n555lv"
+      },
+      {
+        "registration": "N556WN",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33936",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n556wn"
+      },
+      {
+        "registration": "N558WN",
+        "aircraftType": "Boeing 737-73V",
+        "msn": "30248",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n558wn"
+      },
+      {
+        "registration": "N561WN",
+        "aircraftType": "Boeing 737-73V",
+        "msn": "32417",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n561wn"
+      },
+      {
+        "registration": "N563WN",
+        "aircraftType": "Boeing 737-752",
+        "msn": "34296",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n563wn"
+      },
+      {
+        "registration": "N564WN",
+        "aircraftType": "Boeing 737-73V",
+        "msn": "30244",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n564wn"
+      },
+      {
+        "registration": "N565WN",
+        "aircraftType": "Boeing 737-76Q",
+        "msn": "30282",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n565wn"
+      },
+      {
+        "registration": "N566WN",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32753",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n566wn"
+      },
+      {
+        "registration": "N567WN",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32747",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n567wn"
+      },
+      {
+        "registration": "N569WN",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "33656",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n569wn"
+      },
+      {
+        "registration": "N570WN",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "33657",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n570wn"
+      },
+      {
+        "registration": "N7702A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33917",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7702a"
+      },
+      {
+        "registration": "N7704B",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33918",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7704b"
+      },
+      {
+        "registration": "N7713A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33919",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7713a"
+      },
+      {
+        "registration": "N7715E",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33921",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7715e"
+      },
+      {
+        "registration": "N7720F",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33922",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7720f"
+      },
+      {
+        "registration": "N7721E",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "34479",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7721e"
+      },
+      {
+        "registration": "N7722B",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32668",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7722b"
+      },
+      {
+        "registration": "N7723E",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32670",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7723e"
+      },
+      {
+        "registration": "N7724A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36725",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n7724a"
+      },
+      {
+        "registration": "N7725A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32671",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7725a"
+      },
+      {
+        "registration": "N7726A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33924",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7726a"
+      },
+      {
+        "registration": "N7727A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32673",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7727a"
+      },
+      {
+        "registration": "N7728D",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33925",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7728d"
+      },
+      {
+        "registration": "N7729A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32675",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7729a"
+      },
+      {
+        "registration": "N7730A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33926",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7730a"
+      },
+      {
+        "registration": "N7731A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32677",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7731a"
+      },
+      {
+        "registration": "N7732A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "34861",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7732a"
+      },
+      {
+        "registration": "N7733B",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32678",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7733b"
+      },
+      {
+        "registration": "N7734H",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33923",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7734h"
+      },
+      {
+        "registration": "N7735A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "34862",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7735a"
+      },
+      {
+        "registration": "N7736A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "35109",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7736a"
+      },
+      {
+        "registration": "N7737E",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33929",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7737e"
+      },
+      {
+        "registration": "N7738A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33930",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7738a"
+      },
+      {
+        "registration": "N7739A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "35110",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7739a"
+      },
+      {
+        "registration": "N7740A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33927",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7740a"
+      },
+      {
+        "registration": "N7741C",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "35788",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7741c"
+      },
+      {
+        "registration": "N7742B",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33928",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7742b"
+      },
+      {
+        "registration": "N7743B",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36718",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7743b"
+      },
+      {
+        "registration": "N7744A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33931",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7744a"
+      },
+      {
+        "registration": "N7745A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33933",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7745a"
+      },
+      {
+        "registration": "N7746C",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33934",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7746c"
+      },
+      {
+        "registration": "N7747C",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36091",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7747c"
+      },
+      {
+        "registration": "N7748A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36399",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7748a"
+      },
+      {
+        "registration": "N7749B",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36724",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n7749b"
+      },
+      {
+        "registration": "N7750A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36716",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7750a"
+      },
+      {
+        "registration": "N7751A",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "36717",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7751a"
+      },
+      {
+        "registration": "N7752B",
+        "aircraftType": "Boeing 737-7BD",
+        "msn": "33943",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7752b"
+      },
+      {
+        "registration": "N7811F",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "28654",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7811f"
+      },
+      {
+        "registration": "N7815L",
+        "aircraftType": "Boeing 737-76Q",
+        "msn": "30288",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n7815l"
+      },
+      {
+        "registration": "N7819A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30649",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7819a"
+      },
+      {
+        "registration": "N7820L",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "28253",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7820l"
+      },
+      {
+        "registration": "N7821L",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32748",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7821l"
+      },
+      {
+        "registration": "N7822A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "32596",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7822a"
+      },
+      {
+        "registration": "N7823A",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32749",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7823a"
+      },
+      {
+        "registration": "N7824A",
+        "aircraftType": "Boeing 737-7BK",
+        "msn": "30617",
+        "age": "24 years",
+        "link": "https://www.flightaware.com/live/flight/n7824a"
+      },
+      {
+        "registration": "N7825A",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32750",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7825a"
+      },
+      {
+        "registration": "N7826B",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "30035",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7826b"
+      },
+      {
+        "registration": "N7827A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "28255",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7827a"
+      },
+      {
+        "registration": "N7828A",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "33697",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7828a"
+      },
+      {
+        "registration": "N7831B",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "32752",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n7831b"
+      },
+      {
+        "registration": "N7832A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "30657",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n7832a"
+      },
+      {
+        "registration": "N7833A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "30036",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n7833a"
+      },
+      {
+        "registration": "N7835A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "34294",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7835a"
+      },
+      {
+        "registration": "N7839A",
+        "aircraftType": "Boeing 737-73V",
+        "msn": "30243",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7839a"
+      },
+      {
+        "registration": "N7843A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "35786",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7843a"
+      },
+      {
+        "registration": "N7844A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "35118",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7844a"
+      },
+      {
+        "registration": "N7845A",
+        "aircraftType": "Boeing 737-71B",
+        "msn": "29366",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7845a"
+      },
+      {
+        "registration": "N7846A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "35218",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7846a"
+      },
+      {
+        "registration": "N7847A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "34297",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7847a"
+      },
+      {
+        "registration": "N7848A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "34298",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7848a"
+      },
+      {
+        "registration": "N7849A",
+        "aircraftType": "Boeing 737-71B",
+        "msn": "29367",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7849a"
+      },
+      {
+        "registration": "N7852A",
+        "aircraftType": "Boeing 737-71B",
+        "msn": "29371",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7852a"
+      },
+      {
+        "registration": "N7853B",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30707",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7853b"
+      },
+      {
+        "registration": "N7854B",
+        "aircraftType": "Boeing 737-71B",
+        "msn": "29372",
+        "age": "18 years",
+        "link": "https://www.flightaware.com/live/flight/n7854b"
+      },
+      {
+        "registration": "N7855A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29357",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7855a"
+      },
+      {
+        "registration": "N7856A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30630",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7856a"
+      },
+      {
+        "registration": "N7857B",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29358",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7857b"
+      },
+      {
+        "registration": "N7858A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29361",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7858a"
+      },
+      {
+        "registration": "N7859B",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30641",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7859b"
+      },
+      {
+        "registration": "N7860A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29362",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7860a"
+      },
+      {
+        "registration": "N7861J",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "33008",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7861j"
+      },
+      {
+        "registration": "N7862A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "33009",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7862a"
+      },
+      {
+        "registration": "N7863A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30644",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7863a"
+      },
+      {
+        "registration": "N7864B",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30638",
+        "age": "23 years",
+        "link": "https://www.flightaware.com/live/flight/n7864b"
+      },
+      {
+        "registration": "N7865A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30647",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7865a"
+      },
+      {
+        "registration": "N7866A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30648",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7866a"
+      },
+      {
+        "registration": "N7867A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "30633",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7867a"
+      },
+      {
+        "registration": "N7868K",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29364",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7868k"
+      },
+      {
+        "registration": "N7869A",
+        "aircraftType": "Boeing 737-79P",
+        "msn": "29365",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7869a"
+      },
+      {
+        "registration": "N7873A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "29350",
+        "age": "21 years",
+        "link": "https://www.flightaware.com/live/flight/n7873a"
+      },
+      {
+        "registration": "N7874B",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "29352",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7874b"
+      },
+      {
+        "registration": "N7875A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "29354",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7875a"
+      },
+      {
+        "registration": "N7876A",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "29355",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7876a"
+      },
+      {
+        "registration": "N7877H",
+        "aircraftType": "Boeing 737-7Q8",
+        "msn": "29359",
+        "age": "20 years",
+        "link": "https://www.flightaware.com/live/flight/n7877h"
+      },
+      {
+        "registration": "N7878A",
+        "aircraftType": "Boeing 737-7K9",
+        "msn": "34320",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7878a"
+      },
+      {
+        "registration": "N7879A",
+        "aircraftType": "Boeing 737-7K9",
+        "msn": "34321",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7879a"
+      },
+      {
+        "registration": "N7880D",
+        "aircraftType": "Boeing 737-7K5",
+        "msn": "34693",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7880d"
+      },
+      {
+        "registration": "N7881A",
+        "aircraftType": "Boeing 737-7CT",
+        "msn": "35084",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7881a"
+      },
+      {
+        "registration": "N7885A",
+        "aircraftType": "Boeing 737-76N",
+        "msn": "33379",
+        "age": "22 years",
+        "link": "https://www.flightaware.com/live/flight/n7885a"
+      },
+      {
+        "registration": "N7886A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "35122",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7886a"
+      },
+      {
+        "registration": "N7887A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "35123",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7887a"
+      },
+      {
+        "registration": "N7888A",
+        "aircraftType": "Boeing 737-752",
+        "msn": "35124",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n7888a"
+      },
+      {
+        "registration": "N7889A",
+        "aircraftType": "Boeing 737-79L",
+        "msn": "34023",
+        "age": "19 years",
+        "link": "https://www.flightaware.com/live/flight/n7889a"
+      },
+      {
+        "registration": "N900WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32544",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n900wn"
+      },
+      {
+        "registration": "N901WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32545",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n901wn"
+      },
+      {
+        "registration": "N902WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36615",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n902wn"
+      },
+      {
+        "registration": "N903WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32457",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n903wn"
+      },
+      {
+        "registration": "N904WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36616",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n904wn"
+      },
+      {
+        "registration": "N906WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36887",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n906wn"
+      },
+      {
+        "registration": "N907WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36619",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n907wn"
+      },
+      {
+        "registration": "N908WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36620",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n908wn"
+      },
+      {
+        "registration": "N909WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32458",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n909wn"
+      },
+      {
+        "registration": "N910WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36618",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n910wn"
+      },
+      {
+        "registration": "N912WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36621",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n912wn"
+      },
+      {
+        "registration": "N913WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "29840",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n913wn"
+      },
+      {
+        "registration": "N914WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36622",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n914wn"
+      },
+      {
+        "registration": "N915WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36888",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n915wn"
+      },
+      {
+        "registration": "N917WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36624",
+        "age": "17 years",
+        "link": "https://www.flightaware.com/live/flight/n917wn"
+      },
+      {
+        "registration": "N919WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36625",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n919wn"
+      },
+      {
+        "registration": "N920WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32460",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n920wn"
+      },
+      {
+        "registration": "N922WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "32461",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n922wn"
+      },
+      {
+        "registration": "N923WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36627",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n923wn"
+      },
+      {
+        "registration": "N924WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36628",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n924wn"
+      },
+      {
+        "registration": "N925WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36630",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n925wn"
+      },
+      {
+        "registration": "N926WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36629",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n926wn"
+      },
+      {
+        "registration": "N927WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36889",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n927wn"
+      },
+      {
+        "registration": "N928WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36890",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n928wn"
+      },
+      {
+        "registration": "N929WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36631",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n929wn"
+      },
+      {
+        "registration": "N930WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36636",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n930wn"
+      },
+      {
+        "registration": "N931WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36637",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n931wn"
+      },
+      {
+        "registration": "N932WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36639",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n932wn"
+      },
+      {
+        "registration": "N933WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36640",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n933wn"
+      },
+      {
+        "registration": "N934WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36642",
+        "age": "16 years",
+        "link": "https://www.flightaware.com/live/flight/n934wn"
+      },
+      {
+        "registration": "N935WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36641",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n935wn"
+      },
+      {
+        "registration": "N936WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36643",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n936wn"
+      },
+      {
+        "registration": "N937WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36644",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n937wn"
+      },
+      {
+        "registration": "N938WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36645",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n938wn"
+      },
+      {
+        "registration": "N939WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36646",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n939wn"
+      },
+      {
+        "registration": "N940WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36900",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n940wn"
+      },
+      {
+        "registration": "N941WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36647",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n941wn"
+      },
+      {
+        "registration": "N942WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36648",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n942wn"
+      },
+      {
+        "registration": "N943WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36913",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n943wn"
+      },
+      {
+        "registration": "N944WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36659",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n944wn"
+      },
+      {
+        "registration": "N945WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36660",
+        "age": "15 years",
+        "link": "https://www.flightaware.com/live/flight/n945wn"
+      },
+      {
+        "registration": "N946WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36918",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n946wn"
+      },
+      {
+        "registration": "N947WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36924",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n947wn"
+      },
+      {
+        "registration": "N948WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36662",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n948wn"
+      },
+      {
+        "registration": "N949WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36663",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n949wn"
+      },
+      {
+        "registration": "N950WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36664",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n950wn"
+      },
+      {
+        "registration": "N951WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36665",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n951wn"
+      },
+      {
+        "registration": "N952WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36667",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n952wn"
+      },
+      {
+        "registration": "N953WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36668",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n953wn"
+      },
+      {
+        "registration": "N954WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36669",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n954wn"
+      },
+      {
+        "registration": "N955WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36671",
+        "age": "14 years",
+        "link": "https://www.flightaware.com/live/flight/n955wn"
+      },
+      {
+        "registration": "N956WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36672",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n956wn"
+      },
+      {
+        "registration": "N957WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "41528",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n957wn"
+      },
+      {
+        "registration": "N958WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36673",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n958wn"
+      },
+      {
+        "registration": "N959WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36674",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n959wn"
+      },
+      {
+        "registration": "N960WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36675",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n960wn"
+      },
+      {
+        "registration": "N961WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36962",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n961wn"
+      },
+      {
+        "registration": "N962WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36963",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n962wn"
+      },
+      {
+        "registration": "N963WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36676",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n963wn"
+      },
+      {
+        "registration": "N964WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36965",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n964wn"
+      },
+      {
+        "registration": "N965WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36677",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n965wn"
+      },
+      {
+        "registration": "N966WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36966",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n966wn"
+      },
+      {
+        "registration": "N967WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36967",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n967wn"
+      },
+      {
+        "registration": "N968WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "36679",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n968wn"
+      },
+      {
+        "registration": "N969WN",
+        "aircraftType": "Boeing 737-7H4",
+        "msn": "41777",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n969wn"
+      }
+    ]
+  },
+  {
+    "type": "B738",
+    "count": "203",
+    "aircraft": [
+      {
+        "registration": "N500WR",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36898",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n500wr"
+      },
+      {
+        "registration": "N8301J",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36980",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n8301j"
+      },
+      {
+        "registration": "N8302F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36680",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n8302f"
+      },
+      {
+        "registration": "N8303R",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36681",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n8303r"
+      },
+      {
+        "registration": "N8305E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36683",
+        "age": "13 years",
+        "link": "https://www.flightaware.com/live/flight/n8305e"
+      },
+      {
+        "registration": "N8306H",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36983",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8306h"
+      },
+      {
+        "registration": "N8307K",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36987",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8307k"
+      },
+      {
+        "registration": "N8308K",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36682",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8308k"
+      },
+      {
+        "registration": "N8309C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36985",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8309c"
+      },
+      {
+        "registration": "N8310C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38807",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8310c"
+      },
+      {
+        "registration": "N8311Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38808",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8311q"
+      },
+      {
+        "registration": "N8312C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38809",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8312c"
+      },
+      {
+        "registration": "N8313F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38810",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8313f"
+      },
+      {
+        "registration": "N8314L",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36990",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8314l"
+      },
+      {
+        "registration": "N8315C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38811",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8315c"
+      },
+      {
+        "registration": "N8316H",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36684",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8316h"
+      },
+      {
+        "registration": "N8317M",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36992",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8317m"
+      },
+      {
+        "registration": "N8318F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36685",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8318f"
+      },
+      {
+        "registration": "N8319F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36994",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8319f"
+      },
+      {
+        "registration": "N8320J",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36686",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8320j"
+      },
+      {
+        "registration": "N8321D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36687",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8321d"
+      },
+      {
+        "registration": "N8322X",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36997",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8322x"
+      },
+      {
+        "registration": "N8323C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37005",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8323c"
+      },
+      {
+        "registration": "N8324A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35966",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8324a"
+      },
+      {
+        "registration": "N8325D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37003",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8325d"
+      },
+      {
+        "registration": "N8326F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35969",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8326f"
+      },
+      {
+        "registration": "N8327A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37009",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8327a"
+      },
+      {
+        "registration": "N8328A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38818",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8328a"
+      },
+      {
+        "registration": "N8329B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37006",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8329b"
+      },
+      {
+        "registration": "N8501V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "41530",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8501v"
+      },
+      {
+        "registration": "N8502Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36666",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8502z"
+      },
+      {
+        "registration": "N8503A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38813",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8503a"
+      },
+      {
+        "registration": "N8504G",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38812",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8504g"
+      },
+      {
+        "registration": "N8507C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "41531",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8507c"
+      },
+      {
+        "registration": "N8508W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38814",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8508w"
+      },
+      {
+        "registration": "N8509U",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36925",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8509u"
+      },
+      {
+        "registration": "N8510E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36944",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8510e"
+      },
+      {
+        "registration": "N8511K",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36670",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8511k"
+      },
+      {
+        "registration": "N8512U",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38816",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8512u"
+      },
+      {
+        "registration": "N8513F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36976",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8513f"
+      },
+      {
+        "registration": "N8514F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36975",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8514f"
+      },
+      {
+        "registration": "N8515X",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36943",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8515x"
+      },
+      {
+        "registration": "N8517F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63594",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8517f"
+      },
+      {
+        "registration": "N8518R",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63593",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8518r"
+      },
+      {
+        "registration": "N8519R",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36910",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8519r"
+      },
+      {
+        "registration": "N8520Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42532",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8520q"
+      },
+      {
+        "registration": "N8522P",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36922",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8522p"
+      },
+      {
+        "registration": "N8523W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36969",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8523w"
+      },
+      {
+        "registration": "N8524Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36970",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8524z"
+      },
+      {
+        "registration": "N8525S",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36949",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8525s"
+      },
+      {
+        "registration": "N8526W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36972",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8526w"
+      },
+      {
+        "registration": "N8527Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36946",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8527q"
+      },
+      {
+        "registration": "N8528Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36927",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8528q"
+      },
+      {
+        "registration": "N8529Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36974",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8529z"
+      },
+      {
+        "registration": "N8530W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63592",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8530w"
+      },
+      {
+        "registration": "N8531Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63575",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8531q"
+      },
+      {
+        "registration": "N8532S",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63576",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8532s"
+      },
+      {
+        "registration": "N8533S",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63577",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8533s"
+      },
+      {
+        "registration": "N8534Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63578",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8534z"
+      },
+      {
+        "registration": "N8535S",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63596",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8535s"
+      },
+      {
+        "registration": "N8536Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63571",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8536z"
+      },
+      {
+        "registration": "N8537Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63595",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8537z"
+      },
+      {
+        "registration": "N8538V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63586",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8538v"
+      },
+      {
+        "registration": "N8539V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42534",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8539v"
+      },
+      {
+        "registration": "N8540V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63598",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8540v"
+      },
+      {
+        "registration": "N8541W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63599",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8541w"
+      },
+      {
+        "registration": "N8542Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63581",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8542z"
+      },
+      {
+        "registration": "N8543Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63587",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8543z"
+      },
+      {
+        "registration": "N8544Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36926",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8544z"
+      },
+      {
+        "registration": "N8545V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63573",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8545v"
+      },
+      {
+        "registration": "N8546V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63574",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8546v"
+      },
+      {
+        "registration": "N8547V",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63572",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8547v"
+      },
+      {
+        "registration": "N8548P",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36968",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8548p"
+      },
+      {
+        "registration": "N8549Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63597",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8549z"
+      },
+      {
+        "registration": "N8550Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63579",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8550q"
+      },
+      {
+        "registration": "N8551Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36951",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8551q"
+      },
+      {
+        "registration": "N8552Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63580",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8552z"
+      },
+      {
+        "registration": "N8553W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63601",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8553w"
+      },
+      {
+        "registration": "N8554X",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36993",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8554x"
+      },
+      {
+        "registration": "N8555Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63600",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8555z"
+      },
+      {
+        "registration": "N8556Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63583",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8556z"
+      },
+      {
+        "registration": "N8557Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63582",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8557q"
+      },
+      {
+        "registration": "N8558Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63602",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8558z"
+      },
+      {
+        "registration": "N8559Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63584",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8559q"
+      },
+      {
+        "registration": "N8560Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64115",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8560z"
+      },
+      {
+        "registration": "N8561Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63585",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8561z"
+      },
+      {
+        "registration": "N8562Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64171",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8562z"
+      },
+      {
+        "registration": "N8563Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64172",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8563z"
+      },
+      {
+        "registration": "N8564Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42545",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8564z"
+      },
+      {
+        "registration": "N8565Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42533",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8565z"
+      },
+      {
+        "registration": "N8566Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64174",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8566z"
+      },
+      {
+        "registration": "N8567Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36928",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8567z"
+      },
+      {
+        "registration": "N8568Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64248",
+        "age": "7 years",
+        "link": "https://www.flightaware.com/live/flight/n8568z"
+      },
+      {
+        "registration": "N8569Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36954",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8569z"
+      },
+      {
+        "registration": "N8570W",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36952",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8570w"
+      },
+      {
+        "registration": "N8571Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36957",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8571z"
+      },
+      {
+        "registration": "N8572X",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64251",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8572x"
+      },
+      {
+        "registration": "N8573Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64250",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8573z"
+      },
+      {
+        "registration": "N8574Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63588",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8574z"
+      },
+      {
+        "registration": "N8575Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63589",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8575z"
+      },
+      {
+        "registration": "N8576Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63590",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8576z"
+      },
+      {
+        "registration": "N8577Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64350",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8577z"
+      },
+      {
+        "registration": "N8578Q",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64349",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8578q"
+      },
+      {
+        "registration": "N8579Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "63591",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8579z"
+      },
+      {
+        "registration": "N8580Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64347",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8580z"
+      },
+      {
+        "registration": "N8581Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64348",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8581z"
+      },
+      {
+        "registration": "N8582Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64801",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8582z"
+      },
+      {
+        "registration": "N8583Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64799",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8583z"
+      },
+      {
+        "registration": "N8584Z",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "64800",
+        "age": "6 years",
+        "link": "https://www.flightaware.com/live/flight/n8584z"
+      },
+      {
+        "registration": "N8600F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "39882",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8600f"
+      },
+      {
+        "registration": "N8602F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38110",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8602f"
+      },
+      {
+        "registration": "N8603F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "38875",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8603f"
+      },
+      {
+        "registration": "N8605E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36891",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8605e"
+      },
+      {
+        "registration": "N8606C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35964",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8606c"
+      },
+      {
+        "registration": "N8607M",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36634",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8607m"
+      },
+      {
+        "registration": "N8608N",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36638",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8608n"
+      },
+      {
+        "registration": "N8609A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36893",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8609a"
+      },
+      {
+        "registration": "N8610A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36635",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8610a"
+      },
+      {
+        "registration": "N8611F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36892",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8611f"
+      },
+      {
+        "registration": "N8612K",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36973",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8612k"
+      },
+      {
+        "registration": "N8613K",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36998",
+        "age": "12 years",
+        "link": "https://www.flightaware.com/live/flight/n8613k"
+      },
+      {
+        "registration": "N8614M",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36908",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8614m"
+      },
+      {
+        "registration": "N8615E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36933",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8615e"
+      },
+      {
+        "registration": "N8616C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36914",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8616c"
+      },
+      {
+        "registration": "N8617E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36912",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8617e"
+      },
+      {
+        "registration": "N8618N",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36915",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8618n"
+      },
+      {
+        "registration": "N8619F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "33939",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8619f"
+      },
+      {
+        "registration": "N8620H",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42526",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8620h"
+      },
+      {
+        "registration": "N8623F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36731",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8623f"
+      },
+      {
+        "registration": "N8624J",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37004",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8624j"
+      },
+      {
+        "registration": "N8625A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36896",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8625a"
+      },
+      {
+        "registration": "N8626B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36894",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8626b"
+      },
+      {
+        "registration": "N8627B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36895",
+        "age": "11 years",
+        "link": "https://www.flightaware.com/live/flight/n8627b"
+      },
+      {
+        "registration": "N8628A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42384",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8628a"
+      },
+      {
+        "registration": "N8629A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36897",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8629a"
+      },
+      {
+        "registration": "N8630B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42521",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8630b"
+      },
+      {
+        "registration": "N8631A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42385",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8631a"
+      },
+      {
+        "registration": "N8632A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "60082",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8632a"
+      },
+      {
+        "registration": "N8633A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36905",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8633a"
+      },
+      {
+        "registration": "N8634A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42522",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8634a"
+      },
+      {
+        "registration": "N8635F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "60083",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8635f"
+      },
+      {
+        "registration": "N8637A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42523",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8637a"
+      },
+      {
+        "registration": "N8638A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36911",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8638a"
+      },
+      {
+        "registration": "N8639B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "60086",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8639b"
+      },
+      {
+        "registration": "N8640D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "60084",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8640d"
+      },
+      {
+        "registration": "N8641B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "60085",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8641b"
+      },
+      {
+        "registration": "N8642E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42525",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8642e"
+      },
+      {
+        "registration": "N8643A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42524",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8643a"
+      },
+      {
+        "registration": "N8644C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35973",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8644c"
+      },
+      {
+        "registration": "N8645A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36907",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8645a"
+      },
+      {
+        "registration": "N8646B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36935",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8646b"
+      },
+      {
+        "registration": "N8647A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42528",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8647a"
+      },
+      {
+        "registration": "N8648A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42531",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8648a"
+      },
+      {
+        "registration": "N8649A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42527",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8649a"
+      },
+      {
+        "registration": "N8650F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36909",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8650f"
+      },
+      {
+        "registration": "N8651A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36920",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8651a"
+      },
+      {
+        "registration": "N8652B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36971",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8652b"
+      },
+      {
+        "registration": "N8653A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37037",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8653a"
+      },
+      {
+        "registration": "N8654B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "37045",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8654b"
+      },
+      {
+        "registration": "N8655D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42529",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8655d"
+      },
+      {
+        "registration": "N8656B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42530",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8656b"
+      },
+      {
+        "registration": "N8657B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "42535",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8657b"
+      },
+      {
+        "registration": "N8658A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36899",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8658a"
+      },
+      {
+        "registration": "N8659D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36901",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8659d"
+      },
+      {
+        "registration": "N8660A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36654",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8660a"
+      },
+      {
+        "registration": "N8661A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36906",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8661a"
+      },
+      {
+        "registration": "N8662F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36936",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8662f"
+      },
+      {
+        "registration": "N8663A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36902",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8663a"
+      },
+      {
+        "registration": "N8664J",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36649",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8664j"
+      },
+      {
+        "registration": "N8665D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36652",
+        "age": "10 years",
+        "link": "https://www.flightaware.com/live/flight/n8665d"
+      },
+      {
+        "registration": "N8667D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36657",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8667d"
+      },
+      {
+        "registration": "N8668A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36903",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8668a"
+      },
+      {
+        "registration": "N8669B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36655",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8669b"
+      },
+      {
+        "registration": "N8670A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36656",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8670a"
+      },
+      {
+        "registration": "N8671D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36937",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8671d"
+      },
+      {
+        "registration": "N8672F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36715",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8672f"
+      },
+      {
+        "registration": "N8673F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36937",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8673f"
+      },
+      {
+        "registration": "N8674B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36941",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8674b"
+      },
+      {
+        "registration": "N8675A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35976",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8675a"
+      },
+      {
+        "registration": "N8676A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36941",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8676a"
+      },
+      {
+        "registration": "N8677A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36650",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8677a"
+      },
+      {
+        "registration": "N8678E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36735",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8678e"
+      },
+      {
+        "registration": "N8679A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36932",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8679a"
+      },
+      {
+        "registration": "N8680C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36737",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8680c"
+      },
+      {
+        "registration": "N8681M",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36904",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8681m"
+      },
+      {
+        "registration": "N8682B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36651",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8682b"
+      },
+      {
+        "registration": "N8683D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36738",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8683d"
+      },
+      {
+        "registration": "N8684F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36653",
+        "age": "9 years",
+        "link": "https://www.flightaware.com/live/flight/n8684f"
+      },
+      {
+        "registration": "N8685B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36723",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8685b"
+      },
+      {
+        "registration": "N8686A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36938",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8686a"
+      },
+      {
+        "registration": "N8687A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "33937",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8687a"
+      },
+      {
+        "registration": "N8688J",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36939",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8688j"
+      },
+      {
+        "registration": "N8689C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36658",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8689c"
+      },
+      {
+        "registration": "N8690A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36916",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8690a"
+      },
+      {
+        "registration": "N8691A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36945",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8691a"
+      },
+      {
+        "registration": "N8692F",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "33942",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8692f"
+      },
+      {
+        "registration": "N8693A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36921",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8693a"
+      },
+      {
+        "registration": "N8694E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36661",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8694e"
+      },
+      {
+        "registration": "N8695D",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "35965",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8695d"
+      },
+      {
+        "registration": "N8696E",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36678",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8696e"
+      },
+      {
+        "registration": "N8697C",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36728",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8697c"
+      },
+      {
+        "registration": "N8698B",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36977",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8698b"
+      },
+      {
+        "registration": "N8699A",
+        "aircraftType": "Boeing 737-8H4",
+        "msn": "36923",
+        "age": "8 years",
+        "link": "https://www.flightaware.com/live/flight/n8699a"
+      }
+    ]
+  }
+]
